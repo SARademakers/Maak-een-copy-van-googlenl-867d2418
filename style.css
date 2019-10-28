@@ -1,0 +1,65 @@
+html {
+	font-size: small;
+}
+body {
+    background: #fff;
+    color: #222;
+    font-family: arial,sans-serif;
+}
+img {
+	Margin-top: 165px;
+	margin-bottom: 25px;
+}
+.searchbar {
+	margin: .4rem 0;
+	width: 590px;
+	border-radius: 25px;
+	height: 45px;
+	margin-bottom: 20px;
+	border-style: solid;
+}
+.button {
+	margin: .4rem 0;
+	width: 140px;
+	height: 40px;
+	border-radius: 5px;
+	margin-right: 5gpx;
+	margin-left: 5px;
+	margin-bottom: 20px;
+	border-style: none;
+}
+.gmail {
+	margin-top: 200px;
+	margin-left: 1690px;
+}
+.images {
+	margin-top: 100px;
+	margin-left: 15px;
+}
+.Bottom {
+	border:1px solid #e4e4e4;
+	margin-top: 32em;
+	background-color: #f2f2f2;
+
+}
+.Netherlands {
+    text-align: left;
+    color: rgba(0,0,0,.54);
+    font-size: 13px;
+    line-height: 40px;
+    margin-left: 10px;
+}
+.bottom-link {
+	margin-right: 25px;
+}
+.bottom-right1 {
+	margin-left: 1300px;
+}
+.bottom-right {
+	margin-left: 20px;
+}
+@media (hover: hover) {
+  a:hover {
+    cursor:pointer;
+  }
+}
