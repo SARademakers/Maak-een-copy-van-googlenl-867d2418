@@ -6,9 +6,18 @@ body {
     color: #222;
     font-family: arial,sans-serif;
 }
-img {
+.google {
 	Margin-top: 165px;
 	margin-bottom: 25px;
+}
+.user {
+	width: 35px;
+	height: 35px;
+}
+.waffle {
+	width: 20px;
+	height: 20px;
+	margin-right: 15px;
 }
 .searchbar {
 	margin: .4rem 0;
@@ -35,6 +44,7 @@ img {
 .images {
 	margin-top: 100px;
 	margin-left: 15px;
+	margin-right: 15px;
 }
 .Bottom {
 	border:1px solid #e4e4e4;
