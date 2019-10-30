@@ -19,6 +19,9 @@ body {
 	height: 20px;
 	margin-right: 15px;
 }
+.waffle:hover {
+
+}
 .searchbar {
 	margin: .4rem 0;
 	width: 590px;
@@ -38,11 +41,9 @@ body {
 	border-style: none;
 }
 .gmail {
-	margin-top: 200px;
 	margin-left: 1690px;
 }
 .images {
-	margin-top: 100px;
 	margin-left: 15px;
 	margin-right: 15px;
 }
